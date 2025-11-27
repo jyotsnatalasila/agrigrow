@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/agrigrow/static/css/main.323d7611.css",
+    "main.js": "/agrigrow/static/js/main.c444c19d.js",
+    "static/js/707.8e503068.chunk.js": "/agrigrow/static/js/707.8e503068.chunk.js",
+    "static/js/453.7339db86.chunk.js": "/agrigrow/static/js/453.7339db86.chunk.js",
+    "index.html": "/agrigrow/index.html",
+    "main.323d7611.css.map": "/agrigrow/static/css/main.323d7611.css.map",
+    "main.c444c19d.js.map": "/agrigrow/static/js/main.c444c19d.js.map",
+    "707.8e503068.chunk.js.map": "/agrigrow/static/js/707.8e503068.chunk.js.map",
+    "453.7339db86.chunk.js.map": "/agrigrow/static/js/453.7339db86.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.323d7611.css",
+    "static/js/main.c444c19d.js"
+  ]
+}
