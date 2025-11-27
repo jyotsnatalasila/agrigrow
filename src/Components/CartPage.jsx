@@ -30,7 +30,7 @@ function CartPage() {
               <p style={{ fontSize: '1.4rem', fontWeight: 600 }}>
                 Your cart is currently empty. Start shopping now!
               </p>
-              <a href={'#/'} style={{ 
+              <a href={'#/home'} style={{ 
                 display: 'inline-block', 
                 marginTop: '20px', 
                 padding: '10px 30px', 
